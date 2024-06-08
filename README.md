@@ -10,6 +10,10 @@
 
 ♂️ **Sesso: Maschio, entusiasta e ambizioso**
 
+### Obiettivi
+
+🎓 **Certificazioni da raggiungere:**
+
 ### Used Distro and tools
 
 #### Windows
@@ -26,3 +30,4 @@
 
 <br clear="left"/>
 
+### Obective
