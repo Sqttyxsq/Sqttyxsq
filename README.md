@@ -1,32 +1,31 @@
-### Chi sono
+### Who I Am
 
-👨‍💻 **Hacker a tempo libero, curioso e intraprendente**
+👨‍💻 **Hacker in my spare time, curious and enterprising**
 
-💡 **Immaginazione tanta, creativa e visionaria**
+💡 **Lots of imagination, creative and visionary**
 
-📚 **Voglia di imparare tanto, appassionato e determinato**
+📚 **Eager to learn a lot, passionate and determined**
 
-🎯 **Focus: 18 anni, dinamico e energico**
+🎯 **Focus: 18 years old, dynamic and energetic**
 
-🌍 **Vivo in Italia**
+🌍 **I live in Italy**
 
- ♂️  **Sesso: Maschio, entusiasto e ambizioso**
+♂️ **Gender: Male, enthusiastic and ambitious**
 
-🎮 **Nel tempo libero mi piace giocare con i miei amici**
+🎮 **In my free time, I enjoy playing with my friends**
 
-😡 **I Hate a skidlle kid**
+😡 **I hate a skidlle kid**
 
-### Obiettivi
+### Goals
 
-
-
-🎓 **Certificazioni da raggiungere:**
+🎓 **Certifications to achieve:**
 - **+**
 
-💼 **Mi piacerebbe lavorare con**
+💼 **I would like to work with:**
 - **Amazon**
 - **Microsoft**
 - **Google**
+
 <br clear="left"/>
 
 ### Used Distro and tools
