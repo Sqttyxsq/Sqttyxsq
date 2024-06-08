@@ -10,18 +10,18 @@
 
 ♂️ **Sesso: Maschio, entusiasta e ambizioso**
 
-## Used Distro and tools
+#@# Used Distro and tools
 
-### Windows
+#### Windows
 ![My Skills](https://skillicons.dev/icons?i=windows,powershell,vscode,visualstudio)
 <br clear="left"/>
 
-### Linux
+#### Linux
 ![My Skills](https://skillicons.dev/icons?i=arch,kali,bash,neovim)
 <br clear="left"/>
 
 
-## Languages ​​I know ✔️
+### Languages ​​I know ✔️
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,mongodb,html,tailwind,js,react,nextjs,prisma)
 
 <br clear="left"/>
