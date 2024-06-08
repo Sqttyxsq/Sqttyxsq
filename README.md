@@ -27,7 +27,7 @@
 
 
 ### Languages ​​I know 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,mongodb,html,tailwind,js,react,nextjs,prisma)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,mongodb,html,tailwind,js,react,nextjs,prisma,md)
 
 <br clear="left"/>
 
