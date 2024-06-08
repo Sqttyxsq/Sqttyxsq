@@ -13,8 +13,7 @@ You can click the Preview link to take a look at your changes.
 <br clear="left"/>
 
 ### Linux
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="30px" style="padding-right:12px;" />
-
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="30px" style="padding-right:12px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30px" style="padding-right:12px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="30px" style="padding-right:12px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="30px" style="padding-right:12px;" />
