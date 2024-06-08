@@ -10,7 +10,7 @@
 
 🌍 **I live in Italy**
 
-🎮 **In my free time, I enjoy playing with my friends or Create stupid programs🤪**
+🎮 **In my free time, I enjoy playing with my friends or create stupid programs🤪**
 
 😡 **I hate a skidlle kid**
 
