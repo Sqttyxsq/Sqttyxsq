@@ -14,8 +14,8 @@
 
 😡 **I hate a skidlle kid**
 
+⭐ **Bro join to my discord.gg/fFH5Va6wnm**
 
-**Bro join to my discord.gg/fFH5Va6wnm**
 ### Goals
 
 🎓 **Certifications to achieve:**
