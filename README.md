@@ -10,8 +10,6 @@
 
 🌍 **I live in Italy**
 
-♂️ **Gender: Male, enthusiastic and ambitious**
-
 🎮 **In my free time, I enjoy playing with my friends**
 
 😡 **I hate a skidlle kid**
