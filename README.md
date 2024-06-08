@@ -1,7 +1,15 @@
-<!---
-Sqttyxsq/Sqttyxsq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
+### Chi sono
+
+👨‍💻 **Hacker a tempo libero**
+
+💡 **Immaginazione Tanta**
+
+📚 **Voglia di imparare tanto**
+
+🎯 **Focus: 18 anni**
+
+♂️ **Sesso: Maschio**
+
 
 ## Used Distro and tools
 
