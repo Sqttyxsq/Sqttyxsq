@@ -13,6 +13,7 @@
 ### Obiettivi
 
 🎓 **Certificazioni da raggiungere:**
+- **CompTIA Security+**
 
 ### Used Distro and tools
 
