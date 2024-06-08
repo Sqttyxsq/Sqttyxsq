@@ -30,5 +30,5 @@
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,mongodb,html,tailwind,js,react,nextjs,prisma,md)
 
 <br clear="left"/>
-
 ### Languages ​​to learn
+![My Skills](https://skillicons.dev/icons?i=java,java,ruby,lua)
