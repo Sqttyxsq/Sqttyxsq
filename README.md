@@ -21,7 +21,7 @@
 <br clear="left"/>
 
 
-### Languages ​​I know ✔
+### Languages ​​I know 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,mongodb,html,tailwind,js,react,nextjs,prisma)
 
 <br clear="left"/>
