@@ -43,6 +43,6 @@
 
 ### Languages ​​to learn
 ![My Skills](https://skillicons.dev/icons?i=java,ruby,swift,dart,php,cs) 
-#### And other
+#### And other (Assembly, ecc)
 
 <br clear="left"/>
