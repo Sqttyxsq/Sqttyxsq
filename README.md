@@ -26,24 +26,3 @@
 
 <br clear="left"/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![My Skills](https://skillicons.dev/icons?i=windows,powershell,vscode,visualstudio)
-
-![My Skills](https://skillicons.dev/icons?i=arch,kali,bash,neovim)
-
-
-windows
