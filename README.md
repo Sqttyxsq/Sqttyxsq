@@ -1,6 +1,6 @@
 ### Who I Am
 
-👨‍💻 **Hacker in my spare time, curious and enterprising**
+👨‍💻 **In my spare time, create stupid programs🤪**
 
 💡 **Lots of imagination, creative and visionary**
 
@@ -10,7 +10,7 @@
 
 🌍 **I live in Italy**
 
-🎮 **In my free time, I enjoy playing with my friends or create stupid programs🤪**
+🎮 **In my free time, I enjoy playing with my friends**
 
 😡 **I hate a skidlle kid**
 
