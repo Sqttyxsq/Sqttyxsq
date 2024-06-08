@@ -43,6 +43,6 @@
 <br clear="left"/>
 
 ### Site
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,mongodb,html,tailwind,js,react,nextjs,prisma)
+![My Skills](https://skillicons.dev/icons?i=java,ruby,swift,dart,php,cs)
 
 <br clear="left"/>
