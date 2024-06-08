@@ -19,7 +19,9 @@
 ### Goals
 
 🎓 **Certifications to achieve:**
-- **+**
+- **OSCP(OSED)**
+- **OSCP(OSEE)**
+- **OSCP(OSEP)**
 
 💼 **I would like to work with:**
 - **Amazon**
