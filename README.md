@@ -17,7 +17,7 @@
 <br clear="left"/>
 
 #### Linux
-![My Skills](https://skillicons.dev/icons?i=arch,kali,bash,neovim)
+![My Skills](https://skillicons.dev/icons?i=linux,arch,kali,bash,neovim)
 <br clear="left"/>
 
 
