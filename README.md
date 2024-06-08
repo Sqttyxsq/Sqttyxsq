@@ -59,7 +59,7 @@
 
 
 
-![My Skills](https://skillicons.dev/icons?i=windows,html,css,wasm)
+![My Skills](https://skillicons.dev/icons?i=windows,powershell,vscode,visualstudio)
 
 
 windows
