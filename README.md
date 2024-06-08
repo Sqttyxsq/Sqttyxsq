@@ -23,8 +23,8 @@
 - **Amazon**
 - **Microsoft**
 - **Google**
-
 <br clear="left"/>
+
 ### Used Distro and tools
 
 #### Windows
