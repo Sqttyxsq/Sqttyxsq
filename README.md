@@ -10,7 +10,7 @@
 
 ♂️ **Sesso: Maschio, entusiasta e ambizioso**
 
-🎮 **Mi piace giocare a:** [Fortnite ]
+🎮 **Mi piace giocare a:** Fortnite 
 
 😡 **I Hate a skidlle kid**
 
