@@ -8,7 +8,7 @@
 
 🎯 **Focus: 18 anni, dinamico e energico**
 
-♂️ **Sesso: Maschio, entusiasta e ambizioso**
+♂️  **Sesso: Maschio, entusiasta e ambizioso**
 
 🎮 **Mi piace giocare a: Fortnite   **
 
