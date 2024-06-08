@@ -22,7 +22,8 @@
 - **CompTIA Security+**
 
 💼 **Lavorare con**
-- **Amazon+**
+- **Amazon**
+- **Microsoft**
 - **Google**
 
 ### Used Distro and tools
