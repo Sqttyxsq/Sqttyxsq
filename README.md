@@ -40,6 +40,8 @@
 <br clear="left"/>
 
 ### Languages ​​to learn
-![My Skills](https://skillicons.dev/icons?i=java,ruby,swift,dart,php,cs) #And more
+![My Skills](https://skillicons.dev/icons?i=java,ruby,swift,dart,php,cs)
+
+#And more
 
 <br clear="left"/>
