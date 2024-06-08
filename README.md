@@ -13,7 +13,7 @@
 ### Used Distro and tools
 
 #### Windows
-![My Skills](https://skillicons.dev/icons?i=windows,powershell,vscode,visualstudio)
+![My Skills](https://skillicons.dev/icons?i=windows,powershell,vscode,visualstudio,dotnet)
 <br clear="left"/>
 
 #### Linux
