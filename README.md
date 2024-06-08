@@ -43,3 +43,23 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="30px" style="padding-right:12px;" />
 
 <br clear="left"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
+
+
+windows
