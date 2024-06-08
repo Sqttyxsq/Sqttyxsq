@@ -10,7 +10,7 @@
 
 ♂️ **Sesso: Maschio, entusiasta e ambizioso**
 
-## Used Distro and tools
+### Used Distro and tools
 
 #### Windows
 ![My Skills](https://skillicons.dev/icons?i=windows,powershell,vscode,visualstudio)
