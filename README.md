@@ -32,4 +32,4 @@
 <br clear="left"/>
 
 ### Languages ​​to learn
-![My Skills](https://skillicons.dev/icons?i=java,ruby,lua,swift,dart,go)
+![My Skills](https://skillicons.dev/icons?i=java,ruby,lua,swift,dart,go,php)
