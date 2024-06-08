@@ -21,7 +21,7 @@
 🎓 **Certificazioni da raggiungere:**
 - **CompTIA Security+**
 
-💼 ** Mi piacerebbe lavorare con**
+💼 **Mi piacerebbe lavorare con**
 - **Amazon**
 - **Microsoft**
 - **Google**
