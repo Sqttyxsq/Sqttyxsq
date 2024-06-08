@@ -19,7 +19,7 @@
 
 
 🎓 **Certificazioni da raggiungere:**
-- **CompTIA Security+**
+- **+**
 
 💼 **Mi piacerebbe lavorare con**
 - **Amazon**
