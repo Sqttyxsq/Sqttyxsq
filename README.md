@@ -8,6 +8,8 @@
 
 🎯 **Focus: 18 anni, dinamico e energico**
 
+🌍 **Vivo in Italia**
+
  ♂️  **Sesso: Maschio, entusiasto e ambizioso**
 
 🎮 **Nel tempo libero mi piace giocare con i miei amici**
