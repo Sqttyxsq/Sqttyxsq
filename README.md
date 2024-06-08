@@ -63,6 +63,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=arch,kali,bash,neovim)
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,html)
 
 windows
