@@ -10,7 +10,7 @@
 
 ♂️  **Sesso: Maschio, entusiasta e ambizioso**
 
-🎮 **Mi piace giocare a: Fortnite Minecraft Rainbow Six Siege Xedfiant Warzone ecc **
+🎮 **Mi piace giocare a: Fortnite Minecraft Rainbow Six Siege Xedfiant Warzone ecc**
 
 😡 **I Hate a skidlle kid**
 
