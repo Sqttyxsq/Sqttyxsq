@@ -10,6 +10,10 @@
 
 ♂️ **Sesso: Maschio, entusiasta e ambizioso**
 
+🎮 **Mi piace giocare a:** [Fortnite ]
+
+😡 **I Hate a skidlle kid**
+
 ### Obiettivi
 
 🎓 **Certificazioni da raggiungere:**
@@ -25,9 +29,13 @@
 ![My Skills](https://skillicons.dev/icons?i=linux,arch,kali,bash,neovim)
 <br clear="left"/>
 
+
 ### Languages ​​I know 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,mongodb,html,css,tailwind,js,react,nextjs,prisma,md)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,mongodb,html,tailwind,js,react,nextjs,prisma)
+
 <br clear="left"/>
 
-### Languages ​​to learn
-![My Skills](https://skillicons.dev/icons?i=java,cs,ruby,lua,swift,dart,go,php)
+### Site
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,mongodb,html,tailwind,js,react,nextjs,prisma)
+
+<br clear="left"/>
