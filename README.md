@@ -40,7 +40,7 @@
 
 
 ### Languages ​​I know 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,mongodb,html,tailwind,js,ts,react,nextjs,prisma)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,mongodb,html,tailwind,materialui,js,ts,react,nextjs,prisma)
 <br clear="left"/>
 
 ### Languages ​​to learn
