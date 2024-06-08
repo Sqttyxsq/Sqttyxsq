@@ -27,9 +27,9 @@
 
 
 ### Languages ​​I know 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,mongodb,html,tailwind,js,react,nextjs,prisma,md)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,mongodb,html,css,tailwind,js,react,nextjs,prisma,md)
 
 <br clear="left"/>
 
 ### Languages ​​to learn
-![My Skills](https://skillicons.dev/icons?i=java,java,ruby,lua)
+![My Skills](https://skillicons.dev/icons?i=java,ruby,lua,swift,dart,)
