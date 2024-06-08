@@ -25,10 +25,8 @@
 ![My Skills](https://skillicons.dev/icons?i=linux,arch,kali,bash,neovim)
 <br clear="left"/>
 
-
 ### Languages ​​I know 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,mongodb,html,css,tailwind,js,react,nextjs,prisma,md)
-
 <br clear="left"/>
 
 ### Languages ​​to learn
