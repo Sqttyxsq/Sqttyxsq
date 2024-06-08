@@ -25,7 +25,6 @@
 - **Google**
 
 <br clear="left"/>
-
 ### Used Distro and tools
 
 #### Windows
@@ -45,7 +44,3 @@
 ![My Skills](https://skillicons.dev/icons?i=java,ruby,swift,dart,php,cs)
 
 <br clear="left"/>
-
-<iframe src="https://github.com/Sqttyxsq/Win11-Booster" title="description"></iframe>
-
-
