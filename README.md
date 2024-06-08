@@ -16,8 +16,14 @@
 
 ### Obiettivi
 
+
+
 🎓 **Certificazioni da raggiungere:**
 - **CompTIA Security+**
+
+💼 **Lavorare con**
+- **Amazon+**
+- **Google**
 
 ### Used Distro and tools
 
