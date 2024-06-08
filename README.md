@@ -1,15 +1,14 @@
 ### Chi sono
 
-👨‍💻 **Hacker a tempo libero**
+👨‍💻 **Hacker a tempo libero, curioso e intraprendente**
 
-💡 **Immaginazione Tanta**
+💡 **Immaginazione tanta, creativa e visionaria**
 
-📚 **Voglia di imparare tanto**
+📚 **Voglia di imparare tanto, appassionato e determinato**
 
-🎯 **Focus: 18 anni**
+🎯 **Focus: 18 anni, dinamico e energico**
 
-♂️ **Sesso: Maschio**
-
+♂️ **Sesso: Maschio, entusiasta e ambizioso**
 
 ## Used Distro and tools
 
