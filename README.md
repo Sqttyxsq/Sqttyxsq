@@ -46,6 +46,6 @@
 
 <br clear="left"/>
 
-<iframe src="[url](https://github.com/Sqttyxsq/Win11-Booster)" title="description"></iframe>
+[url](https://github.com/Sqttyxsq/Win11-Booster)
 
 https://github.com/Sqttyxsq/Win11-Booster
