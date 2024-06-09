@@ -6,7 +6,7 @@
 
 📚 **Eager to learn a lot, passionate and determined**
 
-🎯 **Focus: 18 years old, dynamic and energetic**
+🎯 **Focus: 17 years old, dynamic and energetic**
 
 🌍 **I live in Italy**
 
