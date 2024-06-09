@@ -28,10 +28,6 @@
 - **Microsoft**
 - **Google**
 
-<a href="">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sqttyxsq&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
-
 ### Used Distro and tools
 
 #### Windows
