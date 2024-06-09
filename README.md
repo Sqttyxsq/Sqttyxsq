@@ -16,6 +16,10 @@
 
 ⭐ **Bro join to my discord.gg/fFH5Va6wnm**
 
+<a href="">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sqttyxsq&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
+
 ### Goals
 
 🎓 **Certifications to achieve:**
@@ -52,7 +56,4 @@
 
 
 
-<a href="">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sqttyxsq&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
 
