@@ -48,3 +48,8 @@
 #### And other (Assembly, ecc)
 
 <br clear="left"/>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sqttyxsq&hide_progress=true)
+
+
