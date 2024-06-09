@@ -50,6 +50,6 @@
 <br clear="left"/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sqttyxsq&hide_progress=true,theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sqttyxsq&hide_progress=true,theme=onedark)
 
 
